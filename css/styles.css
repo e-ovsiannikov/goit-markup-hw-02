@@ -165,10 +165,10 @@ body{
 
 /* ===============PORTFOLIO PROJECT================= */
 .btn-list{
+    font-family: var(--font-famaly);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
-    text-align: center;
     color:var(--title-color);
     cursor: pointer;
 }
